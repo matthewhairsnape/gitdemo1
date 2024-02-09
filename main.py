@@ -22,6 +22,9 @@ for jpop in range(1, 21):
 
     elif jpop % 3 == 0:  
         print("Fizz")
+
+#This is a final pull for friday
+        
         
     elif jpop % 5 == 0:  
 
